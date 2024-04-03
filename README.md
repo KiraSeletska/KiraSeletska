@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Stack
-- HTML5
-- CSS5 & SASS
+- HTML
+- CSS & SASS
 - JavaScript & Typescript
 - React & Angular
 - Redux & MobX
