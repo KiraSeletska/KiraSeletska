@@ -5,6 +5,9 @@
 - JavaScript & Typescript
 - React & Angular
 - Redux & MobX
+## My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraSeletska&layout=compact)
 
 <!--
 **KiraSeletska/KiraSeletska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
